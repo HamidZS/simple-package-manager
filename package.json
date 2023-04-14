@@ -1,0 +1,20 @@
+{
+  "name": "@Hamid/simple-package-manager",
+  "version": "1.0.0",
+  "description": "\"# simple-package-manager\" \r \"# simple-package-manager\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HamidZS/simple-package-manager.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HamidZS/simple-package-manager/issues"
+  },
+  "homepage": "https://github.com/HamidZS/simple-package-manager#readme"
+}
